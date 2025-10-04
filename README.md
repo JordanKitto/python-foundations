@@ -44,6 +44,7 @@ Clone the repo and open the notebooks:
 ```bash
 cd python-foundations
 jupyter notebook
+```
 
 ## 📌 Futre Additions
 
@@ -55,4 +56,4 @@ Mini data cleaning pipelines
 
 Introductory OOP projects (e.g. custom CSV reader, bank account simulation)
 
-```
+
